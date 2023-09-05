@@ -1,6 +1,6 @@
 <manifest>
-    <remote fetch="https://github.com/mohammad" name="origin"/>
-    <default remote="origin" sync-j="4" revision="master"/>
+    <remote fetch="https://github.com/mohammadsalari" name="origin"/>
+    <default remote="origin" sync-j="4" revision="main"/>
 
     <project name="linux_app" path="app"/>
     <project name="linux_driver" path="app"/>
