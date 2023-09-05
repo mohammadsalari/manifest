@@ -1,0 +1,8 @@
+<xml/>
+<manifest>
+    <remote fetch="https://github.com/mohammad" name="origin"/>
+    <default remote="origin" sync-j="4" revision="master"/>
+
+    <project name="linux_app" path="app"/>
+    <project name="linux_driver" path="app"/>
+</manifest>
